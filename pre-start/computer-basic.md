@@ -16,7 +16,7 @@ description: 基础的电脑知识可以让你的幻想乡之旅更加舒适
 
 有些人可能分不清地址栏和搜索引擎，然后他们会把链接贴到搜索引擎里面并回车，抱怨为啥打不开
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>一个典型的浏览器页面</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>一个典型的浏览器页面</p></figcaption></figure>
 
 对于这张图片而言，上面google.com一行字即为地址栏，如果有人给你发了个链接，你应该把它贴到这个位置，然后回车。而Google图标下面的输入框为搜索栏，这个位置应该输入你的问题，而不是链接。
 
