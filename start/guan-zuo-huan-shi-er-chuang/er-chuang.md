@@ -40,6 +40,12 @@
 
 
 
+{% hint style="warning" %}
+<mark style="color:yellow;">**药味（薬味さらい）作品**</mark>
+
+<mark style="color:yellow;">药味作品可能会让你对幻想乡产生严重的误解，在你完全了解幻想乡之前请勿观看</mark>
+{% endhint %}
+
 [^1]: 指露米娅去除发带封印后的形态
 
     有人认为红魔乡EX面道中为此形态
