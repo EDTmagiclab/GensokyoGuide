@@ -45,3 +45,7 @@
   * [⚡ 19](numbers/chang-jian-de-shu-zi-geng/19.md)
   * [📞 514](numbers/chang-jian-de-shu-zi-geng/514.md)
   * [❌ 9961](numbers/chang-jian-de-shu-zi-geng/9961.md)
+
+## ✈ 开始你的stg之旅 <a href="#stg-starter" id="stg-starter"></a>
+
+* [💿 选择哪一作？](stg-starter/xuan-ze-na-yi-zuo.md)

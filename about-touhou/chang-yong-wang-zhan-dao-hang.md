@@ -20,7 +20,9 @@ THBwiki：最详尽的中文东方project维基百科([https://thwiki.cc/](https
 
 喵玉殿：大量的汉化内容([https://bbs.nyasama.com](https://bbs.nyasama.com/))
 
-3DM运行库合集：基本可以解决各种缺失运行库引发的错误，下载时记得小心页面广告（[https://dl.3dmgame.com/patch/89066.html](https://dl.3dmgame.com/patch/89066.html)
+3DM运行库合集：基本可以解决各种缺失运行库引发的错误，下载时记得小心页面广告（[https://dl.3dmgame.com/patch/89066.html](https://dl.3dmgame.com/patch/89066.html) ）
+
+动漫之家：大量的官漫和同人漫（[https://www.dmzj.com/](https://www.dmzj.com/) ）
 
 
 
