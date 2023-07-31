@@ -27,9 +27,9 @@
 
 * [🎨 概述](arts/gai-shu.md)
 * [🍻 ZUN绘](arts/zun-hui.md)
-* [🌇 黄昏绘](arts/huang-hun-hui.md)
-* [🎨 Dairi绘](arts/dairi-hui.md)
+* [🌇 黄昏绘（Alphes绘）](arts/huang-hun-hui-alphes-hui.md)
 * [🖼 Alphes风绘](arts/alphes-feng-hui.md)
+* [🎨 Dairi绘](arts/dairi-hui.md)
 
 ## 🔢 数字梗 <a href="#numbers" id="numbers"></a>
 
@@ -49,3 +49,10 @@
 ## ✈ 开始你的stg之旅 <a href="#stg-starter" id="stg-starter"></a>
 
 * [💿 选择哪一作？](stg-starter/xuan-ze-na-yi-zuo.md)
+* [🎮 键盘还是手柄？](stg-starter/jian-pan-huan-shi-shou-bing.md)
+
+## 🧊 或者，从二创开始 <a href="#start-from-doujin" id="start-from-doujin"></a>
+
+* [🛫 概述](start-from-doujin/gai-shu.md)
+* [🕹 一些好玩的同人游戏](start-from-doujin/yi-xie-hao-wan-de-tong-ren-you-xi/README.md)
+  * [🍙 东方夜雀食堂](start-from-doujin/yi-xie-hao-wan-de-tong-ren-you-xi/dong-fang-ye-que-shi-tang.md)
